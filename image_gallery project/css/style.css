@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar{
+     background-color:black;
+}
+a.nav-link {
+    color:white;
+    font-size: 20px;
+    align-items: center;
+    width: 100px;
+    background-color:sk;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+a.nav-link:hover{
+    background-color: yellow;
+}
+
+.footer{
+    background-color: black;
+}
+.about_Ap{
+    margin-top:30px;
+    font-size: 23px;
+}
+
